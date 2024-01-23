@@ -1,4 +1,4 @@
 def check(avs,b):
-    return b*avs
+    return b
 
 print(check(avs=14, b=20))

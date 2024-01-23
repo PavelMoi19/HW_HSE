@@ -1,4 +1,4 @@
-from x7 import check as c
+from main import check as c
 
 def test(avs, b):
     c(avs, b)
